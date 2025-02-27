@@ -46,7 +46,7 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pmBxxNFW7hf5kfCG_JcM-0" value="连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="128" width="50" height="30" as="geometry" />
+          <mxGeometry x="220" y="128" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
